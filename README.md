@@ -4,6 +4,11 @@ NIM  : H1D022082
 
 Shift : B
 
+# TAMPILAN APLIKASI
+
+
+![WhatsApp Image 2024-10-18 at 6 16 11 PM](https://github.com/user-attachments/assets/4cbb44b9-bae9-496d-98ac-2379fff31062)
+
 # PENJELASAN SINGKAT
 
 
