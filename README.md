@@ -4,13 +4,37 @@ NIM  : H1D022082
 
 Shift : B
 
-# TAMPILAN APLIKASI
+# TAMPILAN APLIKASI 
 
+# REGISTRASI 
+![WhatsApp Image 2024-10-18 at 6 10 58 PM](https://github.com/user-attachments/assets/3378b30d-9a4e-4ddb-bfac-0171f5d40f28)
+![WhatsApp Image 2024-10-18 at 6 10 58 PM(1)](https://github.com/user-attachments/assets/708f60b6-4aff-4bc9-9e34-84e9a24b35d0)
 
-![WhatsApp Image 2024-10-18 at 6 16 11 PM](https://github.com/user-attachments/assets/4cbb44b9-bae9-496d-98ac-2379fff31062)
+# LOGIN
+![WhatsApp Image 2024-10-18 at 6 10 59 PM](https://github.com/user-attachments/assets/0372bf78-ce42-4dc2-bd78-71a191ace2a5)
+![WhatsApp Image 2024-10-18 at 6 10 58 PM(2)](https://github.com/user-attachments/assets/d34f01b7-57a8-47aa-afd5-ba83c2511ced)
+
+# HALAMAN UTAMA
+![WhatsApp Image 2024-10-18 at 6 11 27 PM](https://github.com/user-attachments/assets/73e426fc-3adf-4afe-b2e9-b462993c4d51)
+
+# CREATE
+![WhatsApp Image 2024-10-18 at 6 11 45 PM](https://github.com/user-attachments/assets/628485f9-1999-4ce6-8146-5b5ba3a37256)
+![WhatsApp Image 2024-10-18 at 6 11 45 PM(1)](https://github.com/user-attachments/assets/c87ab549-235f-4bf0-855b-6d4bc2c3657d)
+
+# UPDATE
+![WhatsApp Image 2024-10-18 at 6 12 54 PM](https://github.com/user-attachments/assets/522e4528-df53-4049-ba67-4e784bff29a4)
+![WhatsApp Image 2024-10-18 at 6 12 55 PM](https://github.com/user-attachments/assets/ef6e2e41-a09a-4627-a2d5-584cc15e1508)
+![WhatsApp Image 2024-10-18 at 6 12 55 PM(1)](https://github.com/user-attachments/assets/04e1bd7b-3508-4727-92a9-c4a5de9b217e)
+
+# DELETE
+![WhatsApp Image 2024-10-18 at 6 15 56 PM](https://github.com/user-attachments/assets/e6ecff3b-44f7-4163-9bf8-90599a350359)
+![WhatsApp Image 2024-10-18 at 6 15 56 PM(1)](https://github.com/user-attachments/assets/b0ac10f0-72de-41d0-9991-05238a869895)
+
+# LOGOUT BERHASIL 
+![WhatsApp Image 2024-10-18 at 6 16 11 PM](https://github.com/user-attachments/assets/e85d8366-89dc-4551-a844-9b8b430f08e5)
+
 
 # PENJELASAN SINGKAT
-
 
 # REGISTRASI
 
